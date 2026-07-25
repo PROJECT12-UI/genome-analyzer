@@ -1,0 +1,17 @@
+
+FamilyID,Member,Gene,Chr,Position,Ref,Alt,Genotype,zygosity,ClinicalSignificance,dbSNP
+F001,Father,BRCA1,17,43092995,A,G,AG,Heterozygous,Benign,rs1799950
+F001,Father,CFTR,7,117199645,C,T,CT,Heterozygous,Benign,rs113993960
+F001,Father,HBB,11,5248233,A,A,AA,Homozygous,Benign,rs334
+F001,Father,PAH,12,103232072,G,G,GG,Homozygous,Benign,rs5030841
+F001,Father,HEXA,15,72346580,A,T,AT,Heterozygous,Benign,rs1800431
+F001,Mother,BRCA1,17,43092995,A,A,AA,Homozygous,Benign,rs1799950
+F001,Mother,CFTR,7,117199645,C,C,CC,Homozygous,Benign,rs113993960
+F001,Mother,HBB,11,5248233,A,A,AA,Homozygous,Benign,rs334
+F001,Mother,PAH,12,103232072,G,G,GG,Homozygous,Benign,rs5030841
+F001,Mother,HEXA,15,72346580,A,A,AA,Homozygous,Benign,rs1800431
+F001,Baby,BRCA1,17,43092995,A,G,AG,Heterozygous,Benign,rs1799950
+F001,Baby,CFTR,7,117199645,C,T,CT,Heterozygous,Benign,rs113993960
+F001,Baby,HBB,11,5248233,A,A,AA,Homozygous,Benign,rs334
+F001,Baby,PAH,12,103232072,G,G,GG,Homozygous,Benign,rs5030841
+F001,Baby,HEXA,15,72346580,A,A,AA,Homozygous,Benign,rs1800431

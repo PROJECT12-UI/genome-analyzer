@@ -1,0 +1,32 @@
+
+SampleID,Age,Gender,Height,Weight,BloodType,HeartRate,BloodPressure,SugarLevel,Cholesterol,BMI,HealthStatus,GeneticRiskScore,ImmuneScore,DoctorNotes
+B001,0,Female,51cm,3.2kg,A+,140,80/50,85,120,18.5,Healthy,2,85,All parameters normal. No genetic abnormalities detected.
+B002,0,Male,50cm,3.0kg,O+,138,78/48,82,115,18.0,Healthy,3,82,Healthy baby with normal development milestones.
+B003,0,Female,52cm,3.4kg,B+,142,82/52,88,122,19.0,Healthy,1,88,Excellent health. Recommended for routine checkups.
+B004,0,Male,51cm,3.3kg,AB+,136,80/50,86,118,18.7,Healthy,2,84,No genetic conditions detected. Normal growth.
+B005,0,Female,50cm,3.1kg,A+,140,78/48,84,120,18.3,Healthy,2,86,Healthy. All vital signs normal.
+B006,0,Male,52cm,3.5kg,O+,144,82/52,90,124,19.2,Healthy,1,90,Perfect health. No concerns identified.
+B007,0,Female,51cm,3.2kg,B+,138,80/50,87,119,18.6,Healthy,3,83,Normal development. No genetic risks.
+B008,0,Male,50cm,3.0kg,AB+,136,78/48,83,117,18.1,Healthy,2,85,Healthy baby. All systems normal.
+B009,0,Female,52cm,3.4kg,A+,142,82/52,89,123,18.9,Healthy,1,87,Excellent genetic profile. Low risk for any conditions.
+B010,0,Male,51cm,3.3kg,O+,140,80/50,86,120,18.5,Healthy,2,86,All parameters within normal range.
+B011,0,Female,49cm,2.9kg,A+,134,76/46,80,112,17.5,Healthy,3,80,Slightly smaller but healthy. Normal growth expected.
+B012,0,Male,53cm,3.6kg,B+,146,84/54,92,126,19.5,Healthy,1,92,Excellent health. High immune score.
+B013,0,Female,50cm,3.0kg,AB+,138,78/48,83,116,18.0,Healthy,2,84,All genetic markers normal.
+B014,0,Male,52cm,3.4kg,O+,142,82/52,88,122,18.8,Healthy,2,86,No abnormalities detected.
+B015,0,Female,51cm,3.2kg,A+,140,80/50,85,120,18.5,Healthy,2,85,Healthy. Recommended for regular checkups.
+B016,0,Male,50cm,3.1kg,O+,137,79/49,84,118,18.2,Healthy,3,83,Normal development. No concerns.
+B017,0,Female,52cm,3.5kg,B+,143,83/53,89,124,19.1,Healthy,1,89,Excellent health. All systems optimal.
+B018,0,Male,51cm,3.2kg,AB+,139,81/51,87,121,18.6,Healthy,2,85,Healthy. Routine checkup recommended.
+B019,0,Female,50cm,3.0kg,A+,136,77/47,82,116,18.0,Healthy,2,84,Normal. No genetic issues.
+B020,0,Male,52cm,3.4kg,O+,144,83/53,90,123,19.0,Healthy,1,91,Excellent health. Strong immune system.
+B021,0,Female,51cm,3.2kg,B+,141,80/50,86,120,18.5,Healthy,2,86,All vitals normal. Healthy baby.
+B022,0,Male,50cm,3.1kg,AB+,138,78/48,83,118,18.2,Healthy,3,84,Normal growth. No genetic risks.
+B023,0,Female,52cm,3.3kg,A+,142,82/52,88,122,18.8,Healthy,1,88,Excellent genetic profile.
+B024,0,Male,51cm,3.2kg,O+,139,79/49,85,119,18.4,Healthy,2,85,Healthy. All systems normal.
+B025,0,Female,50cm,3.0kg,B+,137,77/47,82,115,18.0,Healthy,3,82,Normal. Routine checkup needed.
+B026,0,Male,52cm,3.5kg,AB+,145,83/53,91,125,19.3,Healthy,1,90,Excellent health. No issues.
+B027,0,Female,51cm,3.1kg,A+,140,80/50,85,120,18.5,Healthy,2,86,Healthy. All parameters good.
+B028,0,Male,50cm,3.0kg,O+,136,78/48,83,117,18.1,Healthy,2,84,Normal development. No concerns.
+B029,0,Female,52cm,3.4kg,B+,143,82/52,89,124,19.0,Healthy,1,89,Excellent. High health score.
+B030,0,Male,51cm,3.3kg,AB+,141,80/50,87,121,18.7,Healthy,2,87,All parameters optimal. Healthy baby.

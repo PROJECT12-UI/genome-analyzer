@@ -1,0 +1,7 @@
+
+FamilyID,FatherName,FatherAge,MotherName,MotherAge,BabyName,BabyGender,BirthDate,BirthWeight,DeliveryType,HealthStatus,GeneticConditions,ImmunizationStatus,OverallScore,Notes
+F001,Robert Johnson,32,Sarah Johnson,30,Emma Johnson,F,2026-07-25,3.2kg,Normal,Excellent,None detected,Up to date,95/100,Healthy family with no genetic abnormalities. Baby developing normally.
+F001,Robert Johnson,32,Sarah Johnson,30,Liam Johnson,M,2026-07-26,3.5kg,Normal,Excellent,None detected,Up to date,97/100,Perfect health. No concerns.
+F001,Robert Johnson,32,Sarah Johnson,30,Olivia Johnson,F,2026-07-27,3.0kg,Normal,Good,None detected,Up to date,90/100,Slightly smaller but healthy. Normal growth expected.
+F001,Robert Johnson,32,Sarah Johnson,30,Noah Johnson,M,2026-07-28,3.4kg,C-section,Excellent,None detected,Up to date,93/100,C-section delivery. Both mother and baby healthy.
+F001,Robert Johnson,32,Sarah Johnson,30,Ava Johnson,F,2026-07-29,3.1kg,Normal,Excellent,None detected,Up to date,92/100,Healthy baby. All vitals normal.
