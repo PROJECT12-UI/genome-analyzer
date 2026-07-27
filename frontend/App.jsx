@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import html2pdf from 'html2pdf.js';
@@ -16,10 +15,12 @@ import {
 
 ChartJS.register(ArcElement, Tooltip, Legend, CategoryScale, LinearScale, BarElement, Title, PointElement, LineElement, Filler);
 
+// ====== BACKEND URL - CHANGE THIS IF YOUR RENDER URL CHANGES ======
 const API = axios.create({
-    baseURL: 'http://localhost:5000/api',
+    baseURL: 'https://genome-backend.onrender.com/api',
     withCredentials: true
 });
+// ====================================================================
 
 function App() {
     const [user, setUser] = useState(null);
@@ -636,7 +637,6 @@ function App() {
                             </div>
                             <div className="card">
                                 <div className="card-title"><FaChartPie /> Risk Distribution</div>
-                                {/* SMALLER PIE CHART - FIXED SIZE */}
                                 <div style={{ maxWidth: '250px', margin: '0 auto' }}>
                                     <Pie data={pieData} />
                                 </div>
