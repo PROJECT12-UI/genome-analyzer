@@ -12,6 +12,7 @@ app = Flask(__name__)
 app.secret_key = 'dev-secret-key'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///genome.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+app.config['SQLALCHEMY_ENGINE_OPTIONS'] = {}
 
 CORS(app, supports_credentials=True, origins='http://localhost:3000')
 
